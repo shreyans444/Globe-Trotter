@@ -1,5 +1,5 @@
 # GlobeTrotter
-A fun and tangible picture viewer.
+A fun and tangible picture viewer based on Android things.
 An original ideal by Caroline Buttet
 www.carolinebuttet.ch
 
